@@ -48,5 +48,3 @@ This project involves building a Convolutional Neural Network (CNN) to classify 
 
 7. **Results Visualization**:
    - Training and validation loss, as well as accuracy, are plotted over epochs.
-
-This project provides a foundational understanding of building CNNs for image classification tasks using TensorFlow and demonstrates techniques for improving model performance through data augmentation and proper evaluation metrics.
